@@ -1,0 +1,8 @@
+node_modules
+typings
+.vs
+**/*.sou
+**/*.user
+bin
+obj
+packages
